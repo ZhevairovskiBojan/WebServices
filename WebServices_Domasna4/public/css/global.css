@@ -1,0 +1,12 @@
+h1 {
+    color:burlywood;
+}
+
+.cena {
+    color:aqua;
+}
+
+.oglas {
+    background-color:bisque;
+    border: 10px color(srgb red green blue);
+}
